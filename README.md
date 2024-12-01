@@ -79,6 +79,16 @@ ESP32-Android-Joystick-Control
 
 ---
 
+## Contributors
+This project was collaboratively developed by the following team members:
+
+---
+
+- [Muditha] SEU_IS_18_ICT_069
+- [Nayanagith] SEU_IS_18_ICT_044
+
+---
+
 ## Troubleshooting ⚠️
 - **Command not working?**
    - Ensure your Android device is connected to the ESP32 Wi-Fi.
